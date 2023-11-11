@@ -33,14 +33,17 @@ img {
 }
 
 
-.logotext
+[class="logo link"]
 {
   margin-right: 76px;
 
 }
 
-.page-header ul 
-{
-  gap: 40px;
 
+
+.list
+{
+  display: flex;
+  gap: 40px;
+  padding: 24px 0 24px;
 }
