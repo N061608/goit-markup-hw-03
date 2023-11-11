@@ -17,8 +17,31 @@ img {
 }
 
 
+
+.child-container
+{
+  display: flex;
+  width: 1158px;
+  margin: 0;
+  padding: 0 15px 0 15px;
+
+
+}
+
 .nav-header {
     display: flex;
     align-items: center;
     
+}
+
+.logo
+{
+  margin-right: 76px;
+
+}
+
+ul 
+{
+  gap: 40px;
+  
 }
