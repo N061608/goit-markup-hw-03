@@ -8,6 +8,10 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 
+.header-container {
+  display: flex;
+}
+
 .header-container ul {
   display: flex;
   width: 1158px;
@@ -18,30 +22,25 @@ img {
 
 
 
-.child-container
+.nav-header
 {
   display: flex;
   width: 1158px;
   margin: 0;
   padding: 0 15px 0 15px;
-
+  align-items: center;
 
 }
 
-.nav-header {
-    display: flex;
-    align-items: center;
-    
-}
 
-.logo
+.logotext
 {
   margin-right: 76px;
 
 }
 
-ul 
+.page-header ul 
 {
   gap: 40px;
-  
+
 }
