@@ -351,6 +351,8 @@ address {
   font-weight: 700;
   line-height: 1.11111;
   letter-spacing: 0.72px;
+
+  padding-bottom: 120px;
 }
 
 .what-we-do {
@@ -362,6 +364,10 @@ address {
 
 .what-we-do item {
   flex-basis: calc((100% - 48px)/3);
+}
+
+.what-width {
+  flex-basis: calc((100% - 3 * 16px) / 3)
 }
 
 
