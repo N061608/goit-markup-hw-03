@@ -165,35 +165,6 @@ address {
   text-align: center;
 }
 
-
-/* FOOTER */
-
-.footer {
-  background-color: #2e2f42;
-  height: 312px;
-  flex-shrink: 0;
-}
-
-.logo-footer {
-  color: #f4f4fd;
-}
-
-.logo-footer-text {
-  line-height: 1.5;
-  color: #f4f4fd;
-  letter-spacing: 0.02em;
-}
-
-.links {
-  text-decoration: none;
-  color: inherit;
-}
-
-
-
-
-
-
 .container {
   width: 1158px;
   margin: 0 auto;
@@ -410,6 +381,36 @@ address {
 
 
 
+
+/* FOOTER */
+
+.footer {
+  background-color: #2e2f42;
+  height: 312px;
+  flex-shrink: 0;
+
+  padding: 100px 0;
+}
+
+.logo-footer {
+  color: #f4f4fd;
+}
+
+.logo-footer-text {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+
+.links {
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo.links {
+  display: inline-block;
+  margin-bottom: 16px;
+}
 
 
 
