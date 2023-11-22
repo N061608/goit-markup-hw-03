@@ -132,8 +132,9 @@ address {
 .nav-menu .page,
 .contacts-menu .contact {
   display: block;
-  padding-top: 24px;
-  padding-bottom: 23px;
+  /* padding-top: 24px;
+  padding-bottom: 23px; */
+  padding: 24px 0;
 }
 
 .page-header {
@@ -154,6 +155,7 @@ address {
   letter-spacing: 0.32px;    /*0 .03em; */
   text-transform: uppercase;
   
+  margin-right: 76px;
 }
 
 /* HERO */
