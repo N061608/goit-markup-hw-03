@@ -325,11 +325,22 @@ address {
 
 
 /* FEARURES */
+.visually-hidden {
+  visibility: hidden;
+}
 
 .features {
   display: flex;
+  gap: 24px;
 }
 
+.item {
+  flex-basis: calc((100% - 72px) / 4)
+}
+
+.list-header {
+  margin-bottom: 8px;
+}
 
 
 /* What are we doing */
