@@ -204,9 +204,6 @@ address {
   padding:  120px 0;
 }
 
-.no-top-padding {
-  padding: 0;
-}
 
 
 .portfolio-section {
@@ -352,6 +349,9 @@ address {
   line-height: 1.11111;
   letter-spacing: 0.72px;
 
+}
+
+.no-top-padding {
   padding-bottom: 120px;
 }
 
