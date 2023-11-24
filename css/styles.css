@@ -154,8 +154,6 @@ img {
 .nav-menu .page,
 .contacts-menu .contacts {
   display: block;
-  /* padding-top: 24px;
-  padding-bottom: 23px; */
   padding: 24px 0;
   
 }
@@ -406,8 +404,16 @@ img {
   display: flex;
   /* margin-top: 72px; */
   column-gap: 24px;
-  
+  margin-bottom: 72px;
+
+  flex-wrap: wrap;
 }
+
+
+
+
+
+
 
 
 
