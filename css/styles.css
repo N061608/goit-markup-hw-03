@@ -419,7 +419,9 @@ img {
 }
 
 
-
+.item-picture .box-item {
+  margin-bottom: 72px;
+}
 
 
 
