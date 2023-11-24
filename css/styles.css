@@ -107,6 +107,9 @@ address {
   color: var(--ocean);
 }
 
+.contacts {
+  margin-right: 40px;
+}
 
 .menu,
 .navigation,
@@ -115,9 +118,9 @@ address {
 {
   display: flex;
   align-items: center;
-
- 
 }
+
+
 
 .portolio-nav-menu {
   display: flex;
@@ -235,7 +238,7 @@ address {
   letter-spacing: 1.12px;
   margin-bottom: 48px;
 
-  max-width: 496px;
+  /* max-width: 496px; */
 }
 
 
@@ -245,10 +248,10 @@ address {
   font-family: inherit;
   border-color: transparent;
 
-  display:block;
+  /* display:block;
   min-width: 169px;
   height: 56px;
-  border: none;
+  border: none; */
 }
 
 .button.order-service {
@@ -262,6 +265,8 @@ address {
   padding: 16px 32px;
   border-radius: 4px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+
+  
 }
 
 
