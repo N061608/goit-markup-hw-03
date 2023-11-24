@@ -130,15 +130,8 @@ img {
   align-items: center;
   justify-content: center;
   gap: 24px;
-  margin-bottom: 72px;
+  margin: 0 0 72px 0;
 }
-
-
-/* .portolio-nav-menu {
-  margin-left: 427px;
-  top: 50%;
-  left: 50%;
-} */
 
 
 .logo-black {
