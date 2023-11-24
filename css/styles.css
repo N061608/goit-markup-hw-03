@@ -120,7 +120,9 @@ img {
   align-items: center;
 }
 
-
+.nav-menu {
+  gap: 40px;
+}
 
 .portolio-nav-menu {
   display: flex;
@@ -155,7 +157,7 @@ img {
   /* padding-top: 24px;
   padding-bottom: 23px; */
   padding: 24px 0;
-  gap: 40px;
+  
 }
 
 .page-header {
