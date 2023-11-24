@@ -92,9 +92,9 @@ img {
 }
 
 
-address {
+.address {
   font-style: inherit;
-
+  margin-left: auto;
 }
 
 
@@ -150,20 +150,19 @@ address {
 }
 
 .nav-menu .page,
-.contacts-menu .contact {
+.contacts-menu .contacts {
   display: block;
   /* padding-top: 24px;
   padding-bottom: 23px; */
   padding: 24px 0;
+  gap: 40px;
 }
 
 .page-header {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.address {
-  margin-left: auto;
-}
+
 
 .navigation .logo,
 .footer .logo {
@@ -238,7 +237,7 @@ address {
   letter-spacing: 1.12px;
   margin-bottom: 48px;
 
-  /* max-width: 496px; */
+  max-width: 496px;
 }
 
 
@@ -248,10 +247,10 @@ address {
   font-family: inherit;
   border-color: transparent;
 
-  /* display:block;
+  display:block;
   min-width: 169px;
   height: 56px;
-  border: none; */
+  border: none;
 }
 
 .button.order-service {
