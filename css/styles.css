@@ -399,7 +399,6 @@ img {
 /* PORTFOLIO MAIN */
 .item-picture {
   display: flex;
-  /* margin-top: 72px; */
   column-gap: 24px;
   row-gap: 48px;
   margin-bottom: 72px;
@@ -411,10 +410,6 @@ img {
   margin-bottom: 72px;
 }
 
-/* 
-.list-btn {
-  margin-bottom: 72px;
-} */
 
 
 /* FOOTER */
