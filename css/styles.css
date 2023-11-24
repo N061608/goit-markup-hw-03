@@ -130,7 +130,7 @@ img {
   align-items: center;
   justify-content: center;
   gap: 24px;
-  margin: 0 0 72px 0;
+  margin-bottom: 72px;
 }
 
 
@@ -317,6 +317,7 @@ img {
 /* FEARURES */
 .visually-hidden {
   visibility: hidden;
+  display: none;
 }
 
 .features {
@@ -406,14 +407,11 @@ img {
   flex-wrap: wrap;
 }
 
-
 .portolio-nav-menu .list-btn {
   margin-bottom: 72px;
 }
 
-.item-picture .box-item {
-  margin-bottom: 72px;
-}
+
 
 
 /* FOOTER */
